@@ -6,9 +6,9 @@
 
 
 ## Features
-* Trip Booking: Users can book trips from one city to another. Buses pass through several cities, and users can book seats on a bus from any station to another station on the same route.
-* Seat Management: Each bus has 12 seats, bookings are only allowed if seats are available, and the number of seats is dynamic
-* Route Management: Trips follow predefined routes, and users can book from any station to another within the same route.
+* Book Management: Manage books in the library by adding, updating, and removing book records. Each book includes details such as title, author, publication year, and ISBN.
+* Patron Management: Manage library patrons by adding new patrons, updating their information, and removing them when needed. Each patron record includes details like name and contact information.
+* Borrowing Records: Track borrowing transactions between books and patrons. The system records borrowing and return dates to manage book availability and ensure timely returns.
 
 
 ## Installation
