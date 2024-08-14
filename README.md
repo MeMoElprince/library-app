@@ -130,5 +130,5 @@
 
 
 
-[Full API Documentation](https://documenter.getpostman.com/view/29993767/2sA3kUG2U7)
+[Full API Documentation](https://documenter.getpostman.com/view/29993767/2sA3s6Gq3S)
 
